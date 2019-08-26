@@ -6,7 +6,7 @@ function HomePage() {
     <div className="App">
       <header className="App-header">
 
-          Sakthikannan
+          Sakthikannan Subramanian
 
       </header>
     </div>
