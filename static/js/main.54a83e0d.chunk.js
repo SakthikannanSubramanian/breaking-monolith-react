@@ -1,2 +1,0 @@
-(window["webpackJsonpbreaking-monolith-react"]=window["webpackJsonpbreaking-monolith-react"]||[]).push([[0],[,,,function(e,n,a){e.exports=a(10)},,,,,function(e,n,a){},function(e,n,a){},function(e,n,a){"use strict";a.r(n);var t=a(0),r=a.n(t),o=a(2),c=a.n(o);a(8),a(9);var i=function(){return r.a.createElement("div",{className:"App"},r.a.createElement("header",{className:"App-header"},"Sakthikannan"))};c.a.render(r.a.createElement(i,null),document.getElementById("root"))}],[[3,1,2]]]);
-//# sourceMappingURL=main.54a83e0d.chunk.js.map
