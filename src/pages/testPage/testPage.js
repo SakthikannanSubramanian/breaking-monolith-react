@@ -1,10 +1,11 @@
 import React from 'react';
+import TestDetailsPage from '../../components/testDetailsPage/testDetailsPage';
 
 function TestPage() {
   return (
     <div >
 
-          TestPage
+         <TestDetailsPage/>
 
     </div>
   );
