@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "603ac2eb4f768e2fb6816ad03b24479b",
+    "revision": "772d713973d683586d3f755103f4bfa9",
     "url": "/breaking-monolith-react/index.html"
   },
   {
-    "revision": "2de9090878c9438a8932",
+    "revision": "0725db5638cff9c7754a",
     "url": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "83e3afd006c609ad09e6",
+    "revision": "bf2dd6e171867d90bc34",
     "url": "/breaking-monolith-react/static/css/main.b0963d83.chunk.css"
   },
   {
-    "revision": "2de9090878c9438a8932",
-    "url": "/breaking-monolith-react/static/js/2.92e33d1e.chunk.js"
+    "revision": "0725db5638cff9c7754a",
+    "url": "/breaking-monolith-react/static/js/2.f840e9a7.chunk.js"
   },
   {
-    "revision": "83e3afd006c609ad09e6",
-    "url": "/breaking-monolith-react/static/js/main.c3ee0077.chunk.js"
+    "revision": "bf2dd6e171867d90bc34",
+    "url": "/breaking-monolith-react/static/js/main.8e13925f.chunk.js"
   },
   {
     "revision": "4016b95623fea72b3681",
