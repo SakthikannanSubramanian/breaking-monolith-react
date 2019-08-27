@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/breaking-monolith-react/precache-manifest.b07c29873bb237e0be7ff03af91b4f33.js"
+  "/breaking-monolith-react/precache-manifest.a7167c07743bf92fa6bfb803679b8773.js"
 );
 
 self.addEventListener('message', (event) => {
