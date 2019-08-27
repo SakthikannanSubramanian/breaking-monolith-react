@@ -33,6 +33,17 @@
   background-repeat: no-repeat;
   background-size: auto;
   justify-content: center;
+  display: table;
+}
+
+.verticalCenter {
+  display: table-cell;
+  vertical-align: middle;
+  justify-content: center;
+}
+
+td {
+  align-content: center;
 }
 
 .backCard {
@@ -47,9 +58,8 @@
   background-image: url("../../assets/options-back-background.jpg");
   background-repeat: no-repeat;
   background-size: auto;
-  text-align: center;
-  display: flex;
   justify-content: center;
+  display: table;
 }
 
 .backCard a {
@@ -67,4 +77,5 @@
 
 table {
   justify-content: center;
+  width: 100%;
 }

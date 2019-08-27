@@ -5,13 +5,16 @@ import './homePage.css';
 
 function HomePage() {
   const agileList = [{ name: 'Planning' }, { name: 'Stand Up' }];
+  const feList =[{ name: 'Development' }, { name: 'Test' }];
+  const beList =[{ name: 'Development' }, { name: 'Test' }];
   return (
     <div>
       <HomePageCarousal />
       <div className="options">
+        <FlipBox top='50px' height='200px' width='10%' left='10%' frontText='Agile' backLinks={agileList} />
+        <FlipBox top='50px' height='100px' width='10%' left='21%' frontText='Front End' backLinks={feList} />
+        <FlipBox top='160px' height='90px' width='10%' left='21%' frontText='Back End' backLinks={feList} />
 
-        <FlipBox top='20px' height='100px' width='200px' left='300px' frontText='Agile' backLinks={agileList} />
-        {/* <FlipBox top='120px' height='100px' width='100px' left='300px' frontText='Sakthikannan Subramanian' backText='Cognizant' /> */}
       </div>
     </div>
   );
