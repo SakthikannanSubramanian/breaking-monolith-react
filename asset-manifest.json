@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/breaking-monolith-react/static/css/main.28e08b61.chunk.css",
-    "main.js": "/breaking-monolith-react/static/js/main.e0124d99.chunk.js",
-    "main.js.map": "/breaking-monolith-react/static/js/main.e0124d99.chunk.js.map",
+    "main.css": "/breaking-monolith-react/static/css/main.b0963d83.chunk.css",
+    "main.js": "/breaking-monolith-react/static/js/main.c3ee0077.chunk.js",
+    "main.js.map": "/breaking-monolith-react/static/js/main.c3ee0077.chunk.js.map",
     "runtime~main.js": "/breaking-monolith-react/static/js/runtime~main.03868c4e.js",
     "runtime~main.js.map": "/breaking-monolith-react/static/js/runtime~main.03868c4e.js.map",
-    "static/js/2.1f5cdb13.chunk.js": "/breaking-monolith-react/static/js/2.1f5cdb13.chunk.js",
-    "static/js/2.1f5cdb13.chunk.js.map": "/breaking-monolith-react/static/js/2.1f5cdb13.chunk.js.map",
+    "static/css/2.3c1ddb0a.chunk.css": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css",
+    "static/js/2.92e33d1e.chunk.js": "/breaking-monolith-react/static/js/2.92e33d1e.chunk.js",
+    "static/js/2.92e33d1e.chunk.js.map": "/breaking-monolith-react/static/js/2.92e33d1e.chunk.js.map",
     "index.html": "/breaking-monolith-react/index.html",
-    "precache-manifest.8a5966c293f95b4dfa03fe3832056eb4.js": "/breaking-monolith-react/precache-manifest.8a5966c293f95b4dfa03fe3832056eb4.js",
+    "precache-manifest.c574db28ac1c20b61174399fcd800f10.js": "/breaking-monolith-react/precache-manifest.c574db28ac1c20b61174399fcd800f10.js",
     "service-worker.js": "/breaking-monolith-react/service-worker.js",
-    "static/css/main.28e08b61.chunk.css.map": "/breaking-monolith-react/static/css/main.28e08b61.chunk.css.map"
+    "static/css/2.3c1ddb0a.chunk.css.map": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css.map",
+    "static/css/main.b0963d83.chunk.css.map": "/breaking-monolith-react/static/css/main.b0963d83.chunk.css.map",
+    "static/media/carousalBackground1.jpg": "/breaking-monolith-react/static/media/carousalBackground1.bf3f9a53.jpg",
+    "static/media/carousalBackground2.jpg": "/breaking-monolith-react/static/media/carousalBackground2.4c74d810.jpg",
+    "static/media/carousalBackground3.jpg": "/breaking-monolith-react/static/media/carousalBackground3.f26ae42c.jpg"
   }
 }
