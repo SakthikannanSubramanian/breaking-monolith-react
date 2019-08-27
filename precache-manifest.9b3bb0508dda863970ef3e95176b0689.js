@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95a1004fa86f951173aae04820e20a5a",
+    "revision": "e016ac078b099ddcfa1ba84f79c497ba",
     "url": "/breaking-monolith-react/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "b640b0d3f58995d34750",
-    "url": "/breaking-monolith-react/static/css/main.63d30887.chunk.css"
+    "revision": "027eeb647ac490f73e6f",
+    "url": "/breaking-monolith-react/static/css/main.1fcb08b6.chunk.css"
   },
   {
     "revision": "53dd74a525ae59aa49e4",
     "url": "/breaking-monolith-react/static/js/2.ff4641ed.chunk.js"
   },
   {
-    "revision": "b640b0d3f58995d34750",
-    "url": "/breaking-monolith-react/static/js/main.b7ee7b8a.chunk.js"
+    "revision": "027eeb647ac490f73e6f",
+    "url": "/breaking-monolith-react/static/js/main.3cf14e0a.chunk.js"
   },
   {
     "revision": "4016b95623fea72b3681",
