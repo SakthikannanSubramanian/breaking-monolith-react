@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4b2a680b2133569f46cab498a193d26c",
+    "revision": "603ac2eb4f768e2fb6816ad03b24479b",
     "url": "/breaking-monolith-react/index.html"
   },
   {
