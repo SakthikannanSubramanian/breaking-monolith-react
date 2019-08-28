@@ -20,9 +20,9 @@ function HomePage() {
         <FlipBox top='50px' height='100px' width='10%' left='21%' frontText='Front End' backLinks={feList} />
         <FlipBox top='160px' height='90px' width='10%' left='21%' frontText='Back End' backLinks={beList} />
         <FlipBox top='50px' height='45px' width='10%' left='32%' frontText='GraphQL' backLinks={graphList} />
-        <FlipBox top='100px' height='148px' width='10%' left='32%' frontText='Testing' backLinks={testList} />
-        <FlipBox top='50px' height='130px' width='18%' left='43%' frontText='Agile' backLinks={agileList} />
-        <FlipBox top='190px' height='50px' width='18%' left='43%' frontText='Defect Management' backLinks={agileList} />
+        <FlipBox top='108px' height='140px' width='10%' left='32%' frontText='Testing' backLinks={testList} />
+        <FlipBox top='50px' height='135px' width='18%' left='43%' frontText='Agile' backLinks={agileList} />
+        <FlipBox top='195px' height='53px' width='18%' left='43%' frontText='Defect Management' backLinks={agileList} />
       </div>
     </div>
   );
