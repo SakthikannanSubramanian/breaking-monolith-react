@@ -1,10 +1,7 @@
 import React, { Component } from 'react';
 import './flipbox.css';
 
-
 const FlipBox = (props) => {
-
-
     const linksToDisplay = props.backLinks.map(link => (
         <tr>
             <td>
