@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebaee8c411b152cf61320789a8c53796",
+    "revision": "0bf747cb073643ded60c3058bb1908f7",
     "url": "/breaking-monolith-react/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css"
   },
   {
-    "revision": "3f5a2b8f27e7a2ae2f07",
-    "url": "/breaking-monolith-react/static/css/main.e1ab25f7.chunk.css"
+    "revision": "776a283fadfd4a0434bf",
+    "url": "/breaking-monolith-react/static/css/main.c700d0a1.chunk.css"
   },
   {
     "revision": "53dd74a525ae59aa49e4",
     "url": "/breaking-monolith-react/static/js/2.ff4641ed.chunk.js"
   },
   {
-    "revision": "3f5a2b8f27e7a2ae2f07",
-    "url": "/breaking-monolith-react/static/js/main.9efab658.chunk.js"
+    "revision": "776a283fadfd4a0434bf",
+    "url": "/breaking-monolith-react/static/js/main.3f68ae2c.chunk.js"
   },
   {
     "revision": "4016b95623fea72b3681",
@@ -36,11 +36,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/breaking-monolith-react/static/media/carousalBackground3.f26ae42c.jpg"
   },
   {
-    "revision": "993aa362bbd355ff150f7c4369272b7f",
-    "url": "/breaking-monolith-react/static/media/options-back-background.993aa362.jpg"
+    "revision": "3b8773b90f13072d2a323a36d386e68b",
+    "url": "/breaking-monolith-react/static/media/options-back-background.3b8773b9.jpg"
   },
   {
-    "revision": "f8f43b9174f920b4559b42fd612ffb46",
-    "url": "/breaking-monolith-react/static/media/options-front-background.f8f43b91.jpg"
+    "revision": "658976c1a7926b521ad02396ca09ca08",
+    "url": "/breaking-monolith-react/static/media/options-front-background.658976c1.jpg"
   }
 ]);
