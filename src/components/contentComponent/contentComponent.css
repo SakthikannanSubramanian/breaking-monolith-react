@@ -1,0 +1,7 @@
+.mainContent {
+  position: relative;
+  top: 11em;
+  left: 21%;
+  width: 70%;
+  z-index: -1;
+}

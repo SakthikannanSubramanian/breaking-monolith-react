@@ -1,6 +1,5 @@
 .flipContainer {
   position: absolute;
-  font-size: 120%;
 }
 
 .flipCard {
@@ -67,11 +66,9 @@ td {
   text-decoration: none;
   list-style-type: none;
   color: white;
-
   font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
     "Helvetica Neue", sans-serif !important;
-  font-weight: bold;
-  font-size: 100%;
+  font-size: 80%;
 }
 
 .backCard a:hover {
@@ -81,4 +78,5 @@ td {
 table {
   justify-content: center;
   width: 100%;
+  border: 0px;
 }

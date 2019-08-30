@@ -1,14 +1,14 @@
 import React, { Component } from 'react';
 import { HashRouter as Router, Route } from 'react-router-dom';
 import HomePage from './pages/homePage/homePage';
-import TestPage from './pages/testPage/testPage';
+import MicroServicesTesting from './pages/testPage/micro-services-testing/micro-services-testing';
 
 class RenderApp extends Component {
     render() {
         return (
             <Router>
                 <Route path="/" exact component={HomePage} />
-                <Route path="/test" exact component={TestPage} />
+                <Route path="/Micro Services Testing" exact component={MicroServicesTesting} />
             </Router>
         );
     }

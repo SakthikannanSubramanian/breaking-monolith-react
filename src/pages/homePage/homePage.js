@@ -5,24 +5,25 @@ import './homePage.css';
 
 function HomePage() {
 
-  const agileList = [{ name: 'Planning' }, { name: 'Stand Up' }];
-  const feList =[{ name: 'Development' }, { name: 'Test' }];
-  const beList =[{ name: 'Development' }, { name: 'Test' }];
-  const graphList =[{ name: 'GraphQL' }];
-  const testList = [{ name: 'UI Testing' }, { name: 'API Testing' }];
-  const devOpsList = [{ name: 'Pipeline' }, { name: 'Jenkins' }];
+  const agileList = [{ name: 'Requirement gathering' }, { name: 'Story mapping' },{ name: 'Planning' }, { name: 'Stand up' }, { name: 'Scrum of Scrums' }, { name: 'Review' }, { name: 'Retro' }, { name: 'Health check' }];
+  const uiList =[{ name: 'UI and UX' }, { name: 'UI Development' }, { name: 'Framework' }, { name: 'Mobile App' }];
+  const microServicesList =[{ name: 'API Governance' }, { name: 'Go Serverless' }, { name: 'Containers and Pods' }, { name: 'Orchestration Layer' }, { name: 'Development Framework' }];
+  const graphList =[{ name: 'Single end point orchestration' }];
+  const testList = [{ name: 'UI Testing' }, { name: 'Micro Services Testing' }, { name: 'Performance Testing' }, { name: 'Security Testing' }];
+  const devOpsList = [{ name: 'CI and CD' }, { name: 'Infrastructure as code' }, { name: 'Monitoring and Logging' }, { name: 'Tools' }];
+  const legacyList =[{ name: 'Graceful Decommission' }, { name: 'Continuous Scynchronization' }, { name: 'Data Migration' }];
 
   return (
     <div>
       <HomePageCarousal />
       <div className="options">
-        <FlipBox top='50px' height='200px' width='10%' left='10%' frontText='DevOps' backLinks={devOpsList} />
-        <FlipBox top='50px' height='100px' width='10%' left='21%' frontText='Front End' backLinks={feList} />
-        <FlipBox top='160px' height='90px' width='10%' left='21%' frontText='Back End' backLinks={beList} />
-        <FlipBox top='50px' height='45px' width='10%' left='32%' frontText='GraphQL' backLinks={graphList} />
-        <FlipBox top='108px' height='140px' width='10%' left='32%' frontText='Testing' backLinks={testList} />
-        <FlipBox top='50px' height='135px' width='18%' left='43%' frontText='Agile' backLinks={agileList} />
-        <FlipBox top='195px' height='53px' width='18%' left='43%' frontText='Defect Management' backLinks={agileList} />
+        <FlipBox top='20px' height='130px' width='18%' left='10%' frontText='DevOps-Platform' backLinks={devOpsList} />
+        <FlipBox top='160px' height='120px' width='18%' left='10%' frontText='UI' backLinks={uiList} />
+        <FlipBox top='20px' height='80px' width='18%' left='30%' frontText='GraphQL' backLinks={graphList} />
+        <FlipBox top='110px' height='170px' width='18%' left='30%' frontText='Micro Services' backLinks={microServicesList} />
+        <FlipBox top='20px' height='260px' width='16%' left='50%' frontText='Agile' backLinks={agileList} />
+        <FlipBox top='20px' height='140px' width='18%' left='68%' frontText='Testing' backLinks={testList} />
+        <FlipBox top='170px' height='110px' width='18%' left='68%' frontText='Managing Monolith' backLinks={legacyList} />
       </div>
     </div>
   );

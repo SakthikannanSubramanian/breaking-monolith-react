@@ -5,7 +5,7 @@ const FlipBox = (props) => {
     const linksToDisplay = props.backLinks.map(link => (
         <tr>
             <td>
-                <a href="#/test">{link.name}</a>
+                <a href={`#/${link.name}`}>{link.name}</a>
             </td>
         </tr>
     ));

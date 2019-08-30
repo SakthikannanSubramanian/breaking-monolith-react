@@ -1,0 +1,33 @@
+.heading {
+  position: relative;
+  top: 35%;
+  left: 2%;
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    "Helvetica Neue", sans-serif !important;
+  float: left;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  font-size: 30%;
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.pageHeader {
+  position: fixed;
+  height: 10em;
+  width: 100%;
+  background-image: url("../../assets/carousalBackground2.jpg");
+}
+
+.headerImage {
+  position: relative;
+  width: 5%;
+  height: 40%;
+  top: 25%;
+  left: 70%;
+}
+
+.headerImage:hover {
+  filter: brightness(1.25);
+}
