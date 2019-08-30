@@ -8,7 +8,7 @@ const Header = (props) => {
             <div className ='heading'>
                 <h2>{props.children}</h2>
             </div>
-            <a href="/">
+            <a href="#/">
                     <img className="headerImage" src={homeImage}/>
             </a>
         </div>
