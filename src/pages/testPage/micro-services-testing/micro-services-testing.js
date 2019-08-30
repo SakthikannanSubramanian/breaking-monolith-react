@@ -39,7 +39,7 @@ function MicroServicesTesting() {
                     </p>
                     <br />
 
-                    <h4>UNIT TEST</h4>
+                    <b>UNIT TEST</b>
                     <p className="paragraphStart">
                         Unit tests exercise the small pieces of software such as a function in the application to determine whether they produce the desired output given a set of known inputs.
 </p>
@@ -51,7 +51,7 @@ function MicroServicesTesting() {
 </p>
                     <br />
 
-                    <h4>FUNCTIONAL/COMPONENT TEST</h4>
+                    <b>FUNCTIONAL/COMPONENT TEST</b>
                     <p className="paragraphStart">
                         Functinal test is testing of the whole service itself but in isolation i.e. using test doubles or mocks for all other dependencies on which the service depends on to behave as is expected out of it.Dependencies includes Database, other microservice, MQ's etc which all can be mocked or stubbed. One of the major objective of functional test is it tests the behavior of the service without depending on dependencies which service needs as such need for an full fledged environment is eliminated.
 </p>
@@ -63,7 +63,7 @@ function MicroServicesTesting() {
 </p>
                     <br />
 
-                    <h4>INTEGRATION TEST</h4>
+                    <b>INTEGRATION TEST</b>
                     <p className="paragraphStart">
                         Integration test primarily test inter-service communication and hence depends on full fledged environment having instances of all dependent services and components in place.
 </p>
