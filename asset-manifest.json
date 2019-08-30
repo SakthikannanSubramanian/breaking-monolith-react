@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/breaking-monolith-react/static/css/main.c700d0a1.chunk.css",
-    "main.js": "/breaking-monolith-react/static/js/main.4094a11e.chunk.js",
-    "main.js.map": "/breaking-monolith-react/static/js/main.4094a11e.chunk.js.map",
+    "main.css": "/breaking-monolith-react/static/css/main.43af0060.chunk.css",
+    "main.js": "/breaking-monolith-react/static/js/main.16eae09c.chunk.js",
+    "main.js.map": "/breaking-monolith-react/static/js/main.16eae09c.chunk.js.map",
     "runtime~main.js": "/breaking-monolith-react/static/js/runtime~main.03868c4e.js",
     "runtime~main.js.map": "/breaking-monolith-react/static/js/runtime~main.03868c4e.js.map",
-    "static/css/2.3c1ddb0a.chunk.css": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css",
-    "static/js/2.449d1c8c.chunk.js": "/breaking-monolith-react/static/js/2.449d1c8c.chunk.js",
-    "static/js/2.449d1c8c.chunk.js.map": "/breaking-monolith-react/static/js/2.449d1c8c.chunk.js.map",
+    "static/js/2.f34ece59.chunk.js": "/breaking-monolith-react/static/js/2.f34ece59.chunk.js",
+    "static/js/2.f34ece59.chunk.js.map": "/breaking-monolith-react/static/js/2.f34ece59.chunk.js.map",
     "index.html": "/breaking-monolith-react/index.html",
-    "precache-manifest.3d2cdc8e06ba0fc43a55a56ce86483d2.js": "/breaking-monolith-react/precache-manifest.3d2cdc8e06ba0fc43a55a56ce86483d2.js",
+    "precache-manifest.534ab7d0bdf477997aaa7fb5c10eafe0.js": "/breaking-monolith-react/precache-manifest.534ab7d0bdf477997aaa7fb5c10eafe0.js",
     "service-worker.js": "/breaking-monolith-react/service-worker.js",
-    "static/css/2.3c1ddb0a.chunk.css.map": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css.map",
-    "static/css/main.c700d0a1.chunk.css.map": "/breaking-monolith-react/static/css/main.c700d0a1.chunk.css.map",
+    "static/css/main.43af0060.chunk.css.map": "/breaking-monolith-react/static/css/main.43af0060.chunk.css.map",
     "static/media/carousalBackground1.jpg": "/breaking-monolith-react/static/media/carousalBackground1.bf3f9a53.jpg",
-    "static/media/carousalBackground2.jpg": "/breaking-monolith-react/static/media/carousalBackground2.4c74d810.jpg",
+    "static/media/header.css": "/breaking-monolith-react/static/media/carousalBackground2.4c74d810.jpg",
     "static/media/carousalBackground3.jpg": "/breaking-monolith-react/static/media/carousalBackground3.f26ae42c.jpg",
-    "static/media/flipbox.css": "/breaking-monolith-react/static/media/options-front-background.658976c1.jpg"
+    "static/media/flipbox.css": "/breaking-monolith-react/static/media/options-front-background.658976c1.jpg",
+    "static/media/whiteHome.png": "/breaking-monolith-react/static/media/whiteHome.924e8ca1.png"
   }
 }

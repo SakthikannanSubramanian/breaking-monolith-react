@@ -1,23 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e01eda120acd67d06842ad9607fa0ffe",
+    "revision": "6806141d6ac7d2f88756120eb2f036d7",
     "url": "/breaking-monolith-react/index.html"
   },
   {
-    "revision": "03034c979d87be9a5415",
-    "url": "/breaking-monolith-react/static/css/2.3c1ddb0a.chunk.css"
+    "revision": "67bae73ceacde396464b",
+    "url": "/breaking-monolith-react/static/css/main.43af0060.chunk.css"
   },
   {
-    "revision": "cb9eae17dc09a8fda3ad",
-    "url": "/breaking-monolith-react/static/css/main.c700d0a1.chunk.css"
+    "revision": "a3ef73153a52b0e20159",
+    "url": "/breaking-monolith-react/static/js/2.f34ece59.chunk.js"
   },
   {
-    "revision": "03034c979d87be9a5415",
-    "url": "/breaking-monolith-react/static/js/2.449d1c8c.chunk.js"
-  },
-  {
-    "revision": "cb9eae17dc09a8fda3ad",
-    "url": "/breaking-monolith-react/static/js/main.4094a11e.chunk.js"
+    "revision": "67bae73ceacde396464b",
+    "url": "/breaking-monolith-react/static/js/main.16eae09c.chunk.js"
   },
   {
     "revision": "4016b95623fea72b3681",
@@ -42,5 +38,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "658976c1a7926b521ad02396ca09ca08",
     "url": "/breaking-monolith-react/static/media/options-front-background.658976c1.jpg"
+  },
+  {
+    "revision": "924e8ca11c68294812334a939ee8c1a3",
+    "url": "/breaking-monolith-react/static/media/whiteHome.924e8ca1.png"
   }
 ]);
