@@ -5,9 +5,34 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  scroll-padding-top: 12em;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.paragraphStart {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    "Helvetica Neue", sans-serif !important;
+  text-indent: 50px;
+  font-weight: normal;
+  text-align: justify;
+  padding-top: 1em;
+}
+
+.paragraph {
+  font-family: Circular, -apple-system, BlinkMacSystemFont, Roboto,
+    "Helvetica Neue", sans-serif !important;
+  font-weight: normal;
+  text-align: justify;
+}
+
+.unorderedList {
+  padding-top: 1em;
+}
+
+.unorderedList li {
+  padding-top: 0.5em;
 }
