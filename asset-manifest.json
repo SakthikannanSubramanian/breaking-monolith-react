@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/breaking-monolith-react/static/css/main.a6f966d7.chunk.css",
-    "main.js": "/breaking-monolith-react/static/js/main.49a1a65e.chunk.js",
-    "main.js.map": "/breaking-monolith-react/static/js/main.49a1a65e.chunk.js.map",
+    "main.js": "/breaking-monolith-react/static/js/main.72bf91f7.chunk.js",
+    "main.js.map": "/breaking-monolith-react/static/js/main.72bf91f7.chunk.js.map",
     "runtime~main.js": "/breaking-monolith-react/static/js/runtime~main.03868c4e.js",
     "runtime~main.js.map": "/breaking-monolith-react/static/js/runtime~main.03868c4e.js.map",
     "static/js/2.601ae4b6.chunk.js": "/breaking-monolith-react/static/js/2.601ae4b6.chunk.js",
     "static/js/2.601ae4b6.chunk.js.map": "/breaking-monolith-react/static/js/2.601ae4b6.chunk.js.map",
     "index.html": "/breaking-monolith-react/index.html",
-    "precache-manifest.d64e6cd68b248ffce87d8d4ec53bec6a.js": "/breaking-monolith-react/precache-manifest.d64e6cd68b248ffce87d8d4ec53bec6a.js",
+    "precache-manifest.63bf6c476afa730238afc42f6e52cc92.js": "/breaking-monolith-react/precache-manifest.63bf6c476afa730238afc42f6e52cc92.js",
     "service-worker.js": "/breaking-monolith-react/service-worker.js",
     "static/css/main.a6f966d7.chunk.css.map": "/breaking-monolith-react/static/css/main.a6f966d7.chunk.css.map",
     "static/media/carousalBackground1.jpg": "/breaking-monolith-react/static/media/carousalBackground1.bf3f9a53.jpg",
